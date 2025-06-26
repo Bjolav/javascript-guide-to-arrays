@@ -1,3 +1,3 @@
-# javascript-guide-to-arrays
+# JavaScript Guide To Arrays
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Bjolav/javascript-guide-to-arrays)
+Guide for hvordan å benytte Arrays i JavaScript, med vedlagte utfordringer.
